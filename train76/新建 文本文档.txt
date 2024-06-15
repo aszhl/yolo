@@ -1,0 +1,15 @@
+        Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 5/5 [00:21<00:00,  4.40s/it]
+                   all        162        759      0.998      0.981      0.987      0.843
+         warning light        162         57          1          1      0.995       0.86
+           power light        162         99          1      0.899      0.949      0.646
+              AC light        162        151      0.993      0.907      0.953       0.63
+         running light        162        131      0.992          1      0.995      0.834
+          warning area        162         91      0.989          1      0.995      0.837
+                 comen        162         54          1          1      0.995      0.826
+             test area        162         24          1          1      0.995      0.995
+                SV 300        162         95          1      0.968      0.984      0.735
+        blurred screen        162          5          1          1      0.995      0.995
+          black screen        162         26          1          1      0.995      0.975
+          white screen        162         14          1          1      0.995      0.995
+               aeonmed        162         12          1          1      0.995      0.786
+Speed: 0.3ms preprocess, 6.0ms inference, 0.0ms loss, 1.2ms postprocess per image
