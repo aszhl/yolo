@@ -1,0 +1,7 @@
+names: ['warning light','power light','AC light','running light','warning area','comen','test area','SV 300','blurred screen','black screen','white screen','aeonmed']
+nc: 12
+train: F:\yolov8\ultralytics-main\ultralytics-main\breathe_data\divide\总数据加第四次部分数据\train\images
+val: F:\yolov8\ultralytics-main\ultralytics-main\breathe_data\divide\总数据加第四次部分数据\valid\images
+
+
+
